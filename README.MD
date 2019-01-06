@@ -13,7 +13,7 @@ Possible questions which could be answered are:
 This dataset is a chance to explore the Indian startup scene. Deep dive into funding data and derive insights into the future!
 * **SNo <br />** 
 Serial number
-* **Date <br />**  
+* **Date <br />**
 Date of funding in format DD/MM/YYYY
 * **StartupName <br />** 
 Name of the startup which got funded
